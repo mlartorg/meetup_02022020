@@ -14,7 +14,11 @@
 
 ## RESOURCES
 [Grokking Deep Learning by Andrew Trask](https://github.com/iamtrask/Grokking-Deep-Learning)
+
 [Differentiable Image Parametrizations on distill.pub](https://distill.pub/2018/differentiable-parameterizations/)
+
 [Machine Learning for Artists by Gene Kogan](https://ml4a.github.io/)
+
 [Artificial Intelligence Podcast by Lex Fridman](https://lexfridman.com/ai/)
+
 [What Bodies Think About](https://nips.cc/Conferences/2018/Schedule?showEvent=12487)
