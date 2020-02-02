@@ -10,6 +10,8 @@
 
 
 ## RESOURCES
+[What are neural nets? by Chris Olah](https://www.youtube.com/watch?v=vdqu6fvjc5c)
+
 [Grokking Deep Learning by Andrew Trask](https://github.com/iamtrask/Grokking-Deep-Learning)
 
 [Differentiable Image Parametrizations on distill.pub](https://distill.pub/2018/differentiable-parameterizations/)
